@@ -12,7 +12,7 @@
 
 - 在线比赛: codeforces 的 rating
 
-  - codeforce rating 计算方法: 当前cf Rating值（**取最近3场中rating最高分*2，参加场数未达到5场或rating低于1200计分2400**）
+  - codeforce rating 计算方法: 当前cf Rating值（**取最近3场中rating最高分*2，参加场数未达到7场或rating低于1200计分2400**）
   - **每正式且有效 ( 至少过1题 ) 打一场cf，增加10pt**。
   - 登记时，**一人只能申报一个codeforces账号**，这意味着**参加场数和 codeforces Rating 将绑定**。
 
