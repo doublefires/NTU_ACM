@@ -12,7 +12,7 @@
 
 - 在线比赛: **codeforces 和 atcoder**
   - codeforce rating 计算方法: 最近五场cf rating值最高分 * 2 + cf有效场次 * 2（**参加场数未达到6场或rating低于1200计分2400**）
-  - atcoder rating 计算方法：最近五场rating值最高分 * 0.1
+  - atcoder rating 计算方法：最近五场rating值最高分 * 0.1。
   登记时，**一人只能申报一个codeforces账号**，这意味着**参加场数和 codeforces Rating 将绑定**. 
 
 - 刷题: 在各大 OJ 上自行刷题, **每题0.1pt**,结算时向上取整.
