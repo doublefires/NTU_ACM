@@ -13,10 +13,10 @@
 - 在线比赛: 
     **codeforces 的 rating**
   - codeforce rating 计算方法: 当前cf Rating值（**取最近5场中rating最高分*2，前五场rating不计入统计，参加场数未达到6场或rating低于1200计分2400**）
-  - **每正式且有效 ( 至少过1题 ) 打一场cf，增加2pt**。
-  - 登记时，**一人只能申报一个codeforces账号**，这意味着**参加场数和 codeforces Rating 将绑定**。
+  - **每正式且有效 ( 至少过1题 ) 打一场cf，增加2pt**.
+  - 登记时，**一人只能申报一个codeforces账号**，这意味着**参加场数和 codeforces Rating 将绑定**. -
     **atcoder 的 rating**
-  - 最近五场内rating最高分*0.1
+  - 最近五场内rating最高分*0.1.
 
 - 刷题: 在各大 OJ 上自行刷题, **每题0.1pt**,结算时向上取整.
 
