@@ -40,7 +40,7 @@
 
   **VJudge 题数将被计入，若发现重复提交，则取消涉及重复提交的OJ的所有题数。**
 
-  注: OJ 刷题量统计数据来源 [NWPU-ACM 查询系统](https://new.npuacm.info/statistics) 
+  注: OJ 刷题量统计数据来源 [NWPU-ACM 查询系统](https://ojhunt.com/statistics) 
 
 - 专题训练 rating
 
