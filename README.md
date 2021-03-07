@@ -33,10 +33,11 @@
   - Topcoder: https://www.topcoder.com
   - Atcoder: https://atcoder.jp
   - CodeChef: https://www.codechef.com
+  - Nowcoder: https://ac.nowcoder.com
 
   如有其它被认为可以计入的 OJ, 可以在统计 rating 的时候进行申报. 
 
-  CodeVS/ USACO/ 洛谷/ 蓝桥/ LeetCode/ PAT/ 51Node/ nowcoder 等其他中文题库/面试题库/大学OJ/专题训练计划将不被计入。
+  CodeVS/ USACO/ 洛谷/ 蓝桥/ LeetCode/ PAT/ 51Node 等其他中文题库/面试题库/大学OJ/专题训练计划将不被计入。
 
   **VJudge 题数将被计入，若发现重复提交，则取消涉及重复提交的OJ的所有题数。**
 
