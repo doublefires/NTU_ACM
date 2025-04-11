@@ -1,4 +1,4 @@
-## 南通大学2020—2021 ACM/ICPC 队制
+## 南通大学 ACM/ICPC 队制
 
 ### Rating 计算方法：
 
@@ -34,7 +34,7 @@
   - Atcoder: https://atcoder.jp
   - CodeChef: https://www.codechef.com
   - Nowcoder: https://ac.nowcoder.com
-
+  - 洛谷: https://www.luogu.com.cn/
   如有其它被认为可以计入的 OJ, 可以在统计 rating 的时候进行申报. 
 
   CodeVS/ USACO/ 洛谷/ 蓝桥/ LeetCode/ PAT/ 51Node 等其他中文题库/面试题库/大学OJ/专题训练计划将不被计入。
